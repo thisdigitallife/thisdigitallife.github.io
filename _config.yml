@@ -12,10 +12,10 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "SinglePaged - Simple Jekyll template"
-keywords:    "SinglePaged, jekyll, template, github, blog, single page"
-description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
-source_link: "https://github.com/t413/SinglePaged"
+title:       "This Digital Life - Discussing Technologies of the future"
+keywords:    "Machine Learning, Solar, Bitcoin, IOT, PC Hardware"
+description: "Open Discussions on Machine Learning, Solar, Bitcoin, IOT, PC Hardware"
+source_link: "https://github.com/thisdigitallife/thisdigitallife.github.io"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
 # google_analytics_key:  ## put YOUR key here to enable tracking! (blank to disable)
@@ -33,4 +33,3 @@ colors:
 
 kramdown:
   auto_ids:  false
-
