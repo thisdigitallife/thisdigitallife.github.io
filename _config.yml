@@ -13,8 +13,8 @@ markdown: kramdown
 
 ### content configuration ###
 title:       "This Digital Life - Discussing Technologies of the future"
-keywords:    "Machine Learning, Solar, Bitcoin, IOT, PC Hardware"
-description: "Open Discussions on Machine Learning, Solar, Bitcoin, IOT, PC Hardware"
+keywords:    "Machine Learning, Clean Energy, Bitcoin, IOT, PC Hardware"
+description: "Open discussions on technologies that can relovutionalize our lives further"
 source_link: "https://github.com/thisdigitallife/thisdigitallife.github.io"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
