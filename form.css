@@ -78,7 +78,8 @@ input:hover:focus::-ms-placeholder, textarea:hover::focus:-ms-placeholder {
   padding-left: 5%;
 }
 
-input {
+#form input {
+  text-align: center;
   font-size: 0.875em;
   height: 50px;
   padding: 0px 15px 0px 15px;
