@@ -76,10 +76,10 @@ input:hover:focus::-ms-placeholder, textarea:hover::focus:-ms-placeholder {
   color: #b3aca7;
   position: relative;
   padding-left: 15%;
+  text-align: center;
 }
 
 input {
-  text-align: center;
   font-size: 0.875em;
   padding: 0px 15px 0px 15px;
   background: transparent;
@@ -102,7 +102,6 @@ input:hover {
 textarea {
   width: 20%;
   padding: 15px;
-  
   background: transparent;
   outline: none;
   
