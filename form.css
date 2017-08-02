@@ -135,6 +135,7 @@ textarea:hover {
   cursor: pointer;
   border: solid 1px #b3aca7;
   border-top: none;
+  width: inherit;
 }
 
 #submit:hover {
