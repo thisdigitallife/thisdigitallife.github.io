@@ -75,10 +75,10 @@ input:hover:focus::-ms-placeholder, textarea:hover::focus:-ms-placeholder {
 #form {
   color: #b3aca7;
   position: relative;
-  padding-left: 5%;
+  padding-left: 15%;
 }
 
-#form input {
+input {
   text-align: center;
   font-size: 0.875em;
   height: 50px;
