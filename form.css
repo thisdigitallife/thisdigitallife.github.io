@@ -84,11 +84,10 @@ input {
   padding: 0px 15px 0px 15px;
   background: transparent;
   outline: none;
-  color: #fffff;
-  
+  color: #ffffff;
   border: solid 1px #b3aca7;
   border-bottom: none;
-  
+  width: 20%;
   transition: all 0.3s ease-in-out;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
@@ -101,7 +100,7 @@ input:hover {
 }
 
 textarea {
-  
+  width: 20%;
   height: 110px;
   max-height: 110px;
   padding: 15px;
@@ -135,7 +134,7 @@ textarea:hover {
   cursor: pointer;
   border: solid 1px #b3aca7;
   border-top: none;
-  width: inherit;
+  width: 20%;
 }
 
 #submit:hover {
