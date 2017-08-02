@@ -128,13 +128,10 @@ textarea:hover {
 #submit {
   padding: 0;
   margin: -5px 0px 0px 0px;
-  
   font-size: 0.875em;
   color: #b3aca7;
-  
   outline:none;
   cursor: pointer;
-  
   border: solid 1px #b3aca7;
   border-top: none;
 }
