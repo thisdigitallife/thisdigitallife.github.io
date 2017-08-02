@@ -73,7 +73,6 @@ input:hover:focus::-ms-placeholder, textarea:hover::focus:-ms-placeholder {
 }
 
 #form {
-  background: #63BD2F;
   color: #b3aca7;
   position: relative;
 }
@@ -84,7 +83,7 @@ input {
   padding: 0px 15px 0px 15px;
   background: transparent;
   outline: none;
-  color: #726659;
+  color: #fffff;
   
   border: solid 1px #b3aca7;
   border-bottom: none;
@@ -109,7 +108,7 @@ textarea {
   background: transparent;
   outline: none;
   
-  color: #726659;
+  color: #ffffff;
   font-size: 0.875em;
   
   border: solid 1px #b3aca7;
@@ -129,7 +128,7 @@ textarea:hover {
   padding: 0;
   margin: -5px 0px 0px 0px;
   font-size: 0.875em;
-  color: #b3aca7;
+  color: #fcb413;
   outline:none;
   cursor: pointer;
   border: solid 1px #b3aca7;
