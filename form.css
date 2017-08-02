@@ -75,6 +75,7 @@ input:hover:focus::-ms-placeholder, textarea:hover::focus:-ms-placeholder {
 #form {
   color: #b3aca7;
   position: relative;
+  padding: 1em;
 }
 
 input {
@@ -128,7 +129,8 @@ textarea:hover {
   padding: 0;
   margin: -5px 0px 0px 0px;
   font-size: 0.875em;
-  color: #fcb413;
+  background: #fcb413;
+  color: #ffffff;
   outline:none;
   cursor: pointer;
   border: solid 1px #b3aca7;
