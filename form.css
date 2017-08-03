@@ -146,3 +146,17 @@ textarea:hover {
 #submit:hover {
   color: #e2dedb;
 }
+
+.input-group input[type="text"] {
+    position: relative; 
+}
+
+input { font-family: 'FontAwesome'; } /* This is for the placeholder */
+
+.input-group:before {
+    font-family: 'FontAwesome';
+    color:red;
+    position: relative;
+    left: -5px;
+    content: "\f007";
+}
