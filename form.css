@@ -146,7 +146,7 @@ textarea:hover {
 #submit:hover {
   color: #e2dedb;
 }
-.input-group input[type="text"] {
+.input-group input[type="text"], .input-group textarea {
     position: relative; 
   	margin-left: 5px;
 }
