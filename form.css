@@ -159,5 +159,4 @@ input { font-family: 'FontAwesome'; } /* This is for the placeholder */
     color:red;
     position: relative;
     left: -5px;
-    content: "\f007";
 }
