@@ -74,6 +74,7 @@ input:hover:focus::-ms-placeholder, textarea:hover::focus:-ms-placeholder {
 
 #divform {
   padding-left: 15%;
+  padding-top: 5%;
 }
 
 #form {
