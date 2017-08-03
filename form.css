@@ -149,6 +149,7 @@ textarea:hover {
 
 .input-group input[type="text"] {
     position: relative; 
+  	margin-left: 5px;
 }
 
 input { font-family: 'FontAwesome'; } /* This is for the placeholder */
