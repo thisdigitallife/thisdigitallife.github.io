@@ -107,11 +107,10 @@ input:hover {
   background: #b3aca7;
   color: #e2dedb;
 }
-/*
+
 textarea {
   width: 20%;
   padding: 15px;
-  background: transparent;
   outline: none;
   
   color: #ffffff;
@@ -124,7 +123,6 @@ textarea {
   -moz-transition: all 0.3s ease-in-out;
   -ms-transition: all 0.3s ease-in-out;
 }
-*/
 
 textarea:hover {
   background: #b3aca7;
