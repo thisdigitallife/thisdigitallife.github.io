@@ -131,6 +131,7 @@ textarea:hover {
 
 #submit {
   padding: 0;
+  min-height: 2em;
   margin: -5px 0px 0px 0px;
   font-size: 0.875em;
   background: #fcb413;
