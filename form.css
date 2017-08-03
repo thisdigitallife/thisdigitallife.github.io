@@ -72,10 +72,14 @@ input:hover:focus::-ms-placeholder, textarea:hover::focus:-ms-placeholder {
   color: #cbc6c1;
 }
 
+.divform {
+  padding-left: 15%;
+}
+
 #form {
   color: #b3aca7;
   position: relative;
-  padding-left: 15%;
+  
   text-align: center;
 }
 
